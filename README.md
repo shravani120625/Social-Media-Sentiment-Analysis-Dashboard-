@@ -144,7 +144,7 @@ Add images inside `/images` folder:
 ![images](images/Sentiment_Analytics_Dashboard.png)
 ![images](images/Sentiment_Distribution.png)
 ![images](images/Sentiment_Trend_Over_Time.png)
-! [images](images/Sentiment_volume.png)
+![images](images/Sentiment_volume.png)
 # Results
 
 * Model Accuracy: ~85% - 90%
