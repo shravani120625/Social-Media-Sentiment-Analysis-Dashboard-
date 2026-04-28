@@ -138,14 +138,13 @@ python -m streamlit run app/app.py
 # Screenshots
 
 Add images inside `/images` folder:
-(images/Dashboard_home.png)
-(images/Dashboard_home.png)
-(images/Platform_Analysis.png)
-(images/Sentiment_Analytics_Dashboard.png)
-(images/Sentiment_Distribution.png)
-(images/Sentiment_Trend_Over_Time.png)
-(images/Sentiment_volume.png)
-
+![images](images/Dashboard_home.png)
+![images](<images/Input_dataset CSV file.png>)
+![images](images/Platform_Analysis.png)
+![images](images/Sentiment_Analytics_Dashboard.png)
+![images](images/Sentiment_Distribution.png)
+![images](images/Sentiment_Trend_Over_Time.png)
+! [images](images/Sentiment_volume.png)
 # Results
 
 * Model Accuracy: ~85% - 90%
